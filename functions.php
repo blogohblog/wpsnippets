@@ -16,7 +16,7 @@ function load_my_scripts() {
         wp_enqueue_script('jquery');  
         wp_enqueue_script('bootstrap', 'http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js');
     }  
-add_action('wp_enqueue_scripts', 'load_my_scripts'); 
+add_action('wp_enqueue_scripts', 'load_my_scripts');  
 
 
 ////////////////MENU SUPPORT////////////////////////////
