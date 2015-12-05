@@ -3,3 +3,8 @@ Advanced Custom Fields - Custom Fields/Meta and Options
 Advanced Custom Fields Repeater - For repeater Meta 
 OptionTree - Create Theme Options
 ReduxFramework - Create Theme Options
+Recent Posts Extended - Custom Posts Loop Widget
+Enhanced Text - PHP code in Text Widgets
+Q2W3 Fixed Widget - Fixed floating widgets
+Collapse-O-Matic - FAQ style collapsibles
+Shortcodes Ultimate - Shortcodes
