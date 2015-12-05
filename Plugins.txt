@@ -1,3 +1,5 @@
-WPIDE - Code Editor
+WPIDE - WordPress File Editor
 Advanced Custom Fields - Custom Fields/Meta and Options
 Advanced Custom Fields Repeater - For repeater Meta 
+OptionTree - Create Theme Options
+ReduxFramework - Create Theme Options
